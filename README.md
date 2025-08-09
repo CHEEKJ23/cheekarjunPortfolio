@@ -12,6 +12,4 @@ This website showcases my projects, skills, and experiences as a software engine
 - **HTML5**
 - **CSS3 / SCSS**
 - **JavaScript**
-- (Add frameworks or tools here if you use them)
 
-## 📂 Project Structure
