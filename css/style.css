@@ -8928,6 +8928,10 @@ h1, h2, h3, h4, h5,
     font-weight: 900; }
     .ftco-hireme h2 span {
       color: #ffbd39; }
+      .ftco-hireme p span {
+      color: #ffbd39; }
+      .ftco-hireme p  {
+      color: white; }
 
 @media (min-width: 992px) {
   .margin-top {
